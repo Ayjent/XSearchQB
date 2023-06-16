@@ -1,22 +1,20 @@
-Welcome to Lumache's documentation!
+X-Search Query Builder documentation
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**X-Search Query Builder** is a tool that allows user to put in natural language (i.e., common languages such as English, Spanish, etc.) that creates search query syntax for pattern matching, field designations, and search lines in the New X-Search application.  
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+There is a version of the Query Builder that has been integrated into the New X-Search application.  This documentation is for the stand alone Query Builder.  The stand-alone version will have the most recent updates to features and provides a larger interface.
+
 
 .. note::
 
-   This project is under active development.
+   This project is under active development.  The Query Builder will be a continuously evolving project that has many features planned that should enhance the usefulness and provide more configurability.
 
 Contents
 --------
 
 .. toctree::
 
+   interface
    usage
-   api
+   release-notes
