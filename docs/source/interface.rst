@@ -24,5 +24,31 @@ Character Set (Char Set)
 Pattern Matching Table
 ----------------------
 
+Element Display
++++++++++++++++
+
+Replacement View Section
+++++++++++++++++++++++++
+
+**Characters Column**
+
+**Replace Column**
+
+Pattern Matching (Editable with Validation)
++++++++++++++++++++++++++++++++++++++++++++
+
+
 Search Line Table
 -----------------
+
+Line Number
++++++++++++
+
+Query Display
++++++++++++++
+
+Copy
+++++
+
+Select
+++++++
